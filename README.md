@@ -43,6 +43,8 @@ p{
 <h2>My secon css exapmle</h>
 <p>This is a paragraph.</p>
 <p1> This is a secon paragraph.</p1>
+<p> This the the new paragarph number3.</p>
+<p>this the pg number 4</p>
 
 </body>
 </html>
