@@ -26,6 +26,15 @@ p1{
    font-family: roman
    font-size:50px;
    }
+p1
+p{
+ font-family: verdana;
+ font-size:60px;
+ }p
+p{
+  font-style: roman;
+  font-size:70px;
+  }p
 </style>
 </head>
 <body>
